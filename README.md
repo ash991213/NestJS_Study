@@ -132,12 +132,6 @@ export class AppService {
 $ npm i class-validator class-transformer
 ```
 
-## 부분 타입 설정 ( Partial )
-
-```
-$ npm i --save @nestjs/swagger
-```
-
 ## Test
 
 **Jest가 .spec.ts 파일들을 찾아 테스트 할 수 있도록 세팅 되어 있습니다.**
